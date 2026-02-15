@@ -108,8 +108,9 @@
 
 | Connection / Bağlantı | Nginx Control / Kontrol |
 |:---:|:---:|
-| ![Connection](eg/eg1.png) | ![Nginx](eg/eg2.png) |
+| ![Connection](screenshot/eg1.png) | ![Nginx](screenshot/eg2.png) |
 
 | PHP Control / Kontrol | MySQL Control / Kontrol |
 |:---:|:---:|
-| ![PHP](eg/eg3.png) | ![MySQL](eg/eg4.png) |
+| ![PHP](screenshot/eg3.png) | ![MySQL](screenshot/eg4.png) |
+
